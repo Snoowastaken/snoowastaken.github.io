@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name":"William Schauberger",
+    "description":"I am a student at UW-La Crosse studying Computer Science",
+    "image":"profilepic.jpg",
+    "bio":"Proficient in Java, Python, JavaScript, and living in general",
+    "contactmessage":"If you want to get in touch, fill out this box or email me!",
+    "email": "wm28744@gmail.com",
+    "phone": "608-215-3373",
+    "github":"https://github.com/Snoowastaken",
+    "project":"https://github.com/Weeaboo-Bot/discordbot",
+    "address":{
+      "street":"Contact me via my email!",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "wschauberger.com",
+    "resumedownload":"./resume.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/snoowastaken",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/williamschauberger/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/snoowastaken/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Snoowastaken",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Level of skill with the following languages:",
+    "education":[
+      {
+        "school":"University of Wisconsin- La Crosse",
+        "degree":"Bachelors in Computer Science with Emphasis on Embedded Systems",
+        "graduated":"2023",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Apple Inc.",
+        "title":"ASC Specialist ",
+        "years":"July 2021 - Present",
+        "description":"Help encourage sales of Apple products, assist with product launches, and help train Best Buy employees on selling and using Apple products."
+      },
+      {
+        "company":"UW-La Crosse Eagle Help Desk",
+        "title":"Student Worker",
+        "years":"November 2020 - Present",
+        "description":"Assist students and faculty with IT issues."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"C",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Weeaboo-Bot",
+        "category":"A Discord bot that does a little of everything",
+        "image":"01.jpg",
+        "url":"https://github.com/Weeaboo-Bot/discordbot"
+      },
+      {
+        "title":"This website!",
+        "category":"A website that acts as a resume and more in the future!",
+        "image":"02.jpg",
+        "url":"https://github.com/Snoowastaken/website"
+      }
+    ]
+  }
+}
