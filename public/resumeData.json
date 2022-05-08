@@ -47,31 +47,38 @@
         "school":"University of Wisconsin- La Crosse",
         "degree":"Bachelors in Computer Science with Emphasis on Cybersecurity",
         "graduated":"2023",
-        "description":"Currently enrolled in CS270, CS340, CS225, and CS227"
+        "description":"Taking CS270, CS340, and CS225 this semester"
       }
     ],
     "work":[
       {
-        "company":"Apple Inc.",
-        "title":"ASC Specialist ",
-        "years":"July 2021 - December 2021",
-        "description":"Help encourage sales of Apple products, assist with product launches, and help train Best Buy employees on selling and using Apple products."
-      },
-      {
         "company":"UW-La Crosse Eagle Help Desk",
         "title":"Student Worker",
-        "years":"November 2020 - May 2022",
+        "years":"November 2020 - Present",
         "description":"Assist students and faculty with IT issues."
+      },
+      {
+        "company":"UWL Esports and Gaming Club",
+        "title":"President",
+        "years":"September 2012 - Present",
+        "description":"Put together events for club members, act as a liaison for the club and the university, and be the main face of the officers in the club when it comes to member and officer interaction"
+      },
+      {
+        "company":"Apple Inc.",
+        "title":"ASC Specialist",
+        "years":"July 2021 - December 2021",
+        "description":"Help encourage sales of Apple products, assist with product launches, and help train Best Buy employees on selling and using Apple products."
       }
+
     ],
     "skills":[
       {
         "name":"Python",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Java",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Swift",
@@ -99,7 +106,7 @@
         "title":"This website!",
         "category":"A website that acts as a resume and more in the future!",
         "image":"02.jpg",
-        "url":"https://github.com/Snoowastaken/snoowastaken.github.io"
+        "url":"https://github.com/Snoowastaken/website"
       }
     ]
   }
