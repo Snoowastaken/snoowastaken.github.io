@@ -9,9 +9,9 @@ class About extends Component {
     const profilepic = "images/" + this.props.data.image;
     const bio = this.props.data.bio;
     const street = this.props.data.address.street;
-    const city = this.props.data.address.city;
-    const state = this.props.data.address.state;
-    const zip = this.props.data.address.zip;
+    //const city = this.props.data.address.city;
+    //const state = this.props.data.address.state;
+    //const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
     const resumeDownload = "images/" + this.props.data.resumedownload;
