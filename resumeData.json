@@ -16,7 +16,7 @@
       "zip": ""
     },
     "website": "wschauberger.com",
-    "resumedownload":"./resume.pdf",
+    "resumedownload":"resume.pdf",
     "social":[
       {
         "name":"twitter",
@@ -74,7 +74,7 @@
     "skills":[
       {
         "name":"Python",
-        "level":"80%"
+        "level":"60%"
       },
       {
         "name":"Java",
